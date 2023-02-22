@@ -33,7 +33,7 @@ cd sampleto-do
 ## Installation guide for developers
 
 ```sh
-npm install Send-verification-code-via-sms
+npm install Nodejs-sample-to-do-REST-API
 npm run dev
 ```
 
